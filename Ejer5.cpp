@@ -8,7 +8,7 @@ int main(){
     cin >> n1;
 
     if (n1 >= 6){
-        cout << "Aprobado"<< endl;
+        cout << "Exelente"<< endl;
     }
     else{
         cout << "Reprobado"<< endl;
